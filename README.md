@@ -8,6 +8,14 @@
 
 <p align="center">
 Typebot is an Fair Source chatbot builder. It allows you to create advanced chatbots visually, embed them anywhere on your web/mobile apps, and collect results in real-time
+
+  ## Sobre Este Fork
+Este projeto é um fork do repositório original [typebot.io](https://github.com/baptisteArno/typebot.io.git).  
+Ele inclui traduções adicionais e novas funcionalidades implementadas por [].
+
+### Licença
+Este projeto continua sob a licença original [FSL-1.1-Apache-2.0], conforme especificado no repositório principal.
+
 </p>
 
 <p align="center">
